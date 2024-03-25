@@ -32,7 +32,7 @@ In this project I created a Music Player App using the Flutter framework using t
 - song.dart: Defines the model for the Song object which holds: song name, artist name, album art, and audiopath.
 - playlist_provider.dart: Provides the functionalities for operating the songs by utilizing the 'audioplayers' package. Also, provides the functions needed for all the different functions of the music player.
 - components/: Stores all the components and widgets utilized by pages in the app.
-- main_drawer.dart: Provide the implementation of the main drawer used in the application.
+- main_drawer.dart: Provides the implementation of the main drawer used in the application.
 - neumorphic_box.dart: Creates a box with a modern hovering look.
 - assets/: Stores the assets for the application, including /images and /audio.
 
